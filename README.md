@@ -1,24 +1,3 @@
-# DJI TELLO GAMEPAD NODEJS
-
-Connect your tello to your computer
-
-### CLONE REPO
-```sh
-git clone https://github.com/markwinap/DJI_TELLO_GAME_CONTROLLER_NODEJS.git
-```
-### GO TO FOLDER
-```sh
-cd DJI_TELLO_GAME_CONTROLLER_NODEJS/
-```
-### INSTALL
-```sh
-npm install
-```
-### START SERVER
-```sh
-node index
-```
-
 ## PS4 CONNTROLLER - VendorID: 1356 - productID: 1476
 
 | BUTTON | MAP | NOTES | COMMAND |
@@ -40,7 +19,7 @@ node index
 | OPTIONS | 9 | - | land |
 | SHARE | 8 | - | takeoff |
 | HOME | 12 | - | command |
-| TOUCH | 12 | Touch pannel | command |
+| TOUCH | 13 | Touch pannel | command |
 | R˄ | 0 | - deathZone / -1 | - |
 | R˅ | 0 | deathZone / 1 | - |
 | R˂ | 1 | - deathZone / -1 | - |

@@ -1,7 +1,7 @@
 {
   "name": "tello_game_controller_nodejs",
-  "version": "1.0.0",
-  "description": "DJI TELLO GAMEPAD SUPPORT NODEJS",
+  "version": "1.5.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,10 @@
   "author": "Marco Martinez (markwinap@gmail.com)",
   "license": "ISC",
   "dependencies": {
-    "gamepad": "^1.6.0"
+    "body-parser": "^1.18.3",
+    "colors": "^1.3.3",
+    "express": "^4.16.4",
+    "gamepad": "^1.6.0",
+    "ws": "^6.1.4"
   }
 }
